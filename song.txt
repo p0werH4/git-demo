@@ -22,3 +22,5 @@ And history ain't changed
 
 
 feature branch 1
+
+feature branch 2
